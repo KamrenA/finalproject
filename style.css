@@ -1,0 +1,47 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    color: goldenrod;
+}
+
+h2 {
+    text-align: center;
+    color: gold
+}
+
+h3 {
+    text-align: center;
+}
+
+#forest {
+    background-color: rgb(43, 53, 44);
+    outline-color: black;
+    color: green;
+    text-align: center;
+}
+
+.forestdetails {
+    color: rgb(1, 48, 1);
+}
+
+#cave {
+    background-color: rgb(202, 179, 179);
+    outline-color: rgb(0, 0, 0);
+    color: rgb(168, 0, 0);
+    text-align: center;
+}
+
+.cavedetails {
+    color: black;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: gainsboro;
+}
