@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(0, 77, 0);
+}
+
+h1 {
+    color: rgb(151, 224, 151);
+    text-align: center;
+}
+
+.squirrel {
+    float: left;
+    width: 150px;
+    height: 100px;
+    margin-top: -75px;
+    margin-left: 500px;
+}
+
+.rabbit {
+    float: right;
+    width: 150px;
+    height: 100px;
+    margin-top: -75px;
+    margin-right: 500px;
+}
+
+h2 {
+    color: rgb(151, 224, 151);
+    text-align: center;
+}
+
+.textchoice {
+    color: rgb(110, 212, 110);
+    text-align: center;
+}
+
+.text1 {
+    margin-left: 650px;
+}
+
+.text2 {
+    margin-left: 150px;
+
+}
+
+.choicecentered {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.trees {
+    float: right;
+    width: 350px;
+    height: 300px;
+}
+
+#leaves {
+    background-color: rgb(114, 235, 131);
+    background-position: initial;
+    margin-left: 650px;
+    width: 190px;
+    height: 25px;
+    border-style: solid;
+    color: rgb(31, 114, 6);
+    text-align: center;
+}
+
+#force {
+    background-color: rgb(114, 235, 131);
+    background-position: initial;
+    margin-left: 990px;
+    margin-top: -30px;
+    width: 190px;
+    height: 25px;
+    border-style: solid;
+    color: rgb(31, 114, 6);
+    text-align: center;
+}
+
+a:visited {
+    color: rgb(92, 143, 87);
+}
+
+a:link {
+    color: rgb(67, 129, 55);
+}
+
